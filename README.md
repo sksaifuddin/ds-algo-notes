@@ -22,16 +22,17 @@ Also take detailed notes, which will be combination of code and theory. I will a
 
 # 📔 Topics to be covered: 
 Remember the flow: Easy -> Medium -> Hard
-1. Array
-2. Two pointers
-3. Multi dimension arrays
-4. Recursion
-5. Island (Matrix Traversal)
-6. Sliding window
-7. Strings
-8. LinkedList
-9. Stack
-10. queue
-11. Trees
-12. Sorting and Searching
-13. Dynamic Programming
+1. Big O
+2. Arrays
+3. Two pointers
+4. Multi dimension arrays
+5. Recursion
+6. Island (Matrix Traversal)
+7. Sliding window
+8. Strings
+9. LinkedList
+10. Stack
+11. queue
+12. Trees
+13. Sorting and Searching
+14. Dynamic Programming
