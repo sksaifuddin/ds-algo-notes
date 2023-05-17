@@ -20,7 +20,7 @@ Also take detailed notes, which will be combination of code and theory. I will a
 9. Keep practising and keep revising
 10. Have fun !!!
 
-# 📔 Topics to be covered: 
+# 📔 Topics to be covered: (some topics may be added)
 Remember the flow: Easy -> Medium -> Hard
 1. Big O
 2. Arrays
