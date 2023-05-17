@@ -1,4 +1,4 @@
-# Data structures and Algorithm notes 📓⌨️💥
+# Data structures and Algorithms notes 📓⌨️💥
 I have tried to learn Ds and Algo so many times and its always difficult to maintain the consistency 🥲. One more big reason is I always try to complete a topics and then move to another by completing all easy, medium and hard questions, which takes lot of time and I give up and stop practising. This is why I never came to the advance topics like tree and dynamic programming.
 
 This time I will try to maintain consistency and do the problems with this flow:
