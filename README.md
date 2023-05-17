@@ -6,7 +6,7 @@ This time I will try to maintain consistency and do the problems with this flow:
 
 Also take detailed notes, which will be combination of code and theory. I will also try to write some blogs and explain others about the topics I learn to make journey more enjoyable.
 
-** Most important thing: Practise Daily !!!! **
+** Most important thing: Practice Daily !!!! **
 
 # 💪 Strategy: 
 1. Study the topic or the algorithm
