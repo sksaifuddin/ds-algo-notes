@@ -36,3 +36,5 @@ Remember the flow: Easy -> Medium -> Hard
 12. Trees
 13. Sorting and Searching
 14. Dynamic Programming
+
+# Notes
