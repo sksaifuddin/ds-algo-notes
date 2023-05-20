@@ -37,4 +37,8 @@ Remember the flow: Easy -> Medium -> Hard
 13. Sorting and Searching
 14. Dynamic Programming
 
-# Notes
+## Arrays
+| Problem No  | Leetcode  | Link  | Learnings  | Solutions
+|---|---|---|---|---|
+| 1  | 1752  | https://leetcode.com/submissions/detail/954163484/  | 1. how to check if array is sorted, 2. Using modulo  ||
+
