@@ -41,4 +41,5 @@ Remember the flow: Easy -> Medium -> Hard
 | Problem No  | Leetcode  | Link  | Learnings  | Solutions
 |---|---|---|---|---|
 | 1  | 1752  | https://leetcode.com/submissions/detail/954163484/  | 1. how to check if array is sorted, 2. Using modulo  ||
+| 2  | 26    | https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/954736827/ | 1. how to remove duplicates from sorted array ||
 
