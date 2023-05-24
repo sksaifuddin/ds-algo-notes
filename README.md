@@ -43,6 +43,9 @@ Remember the flow: Easy -> Medium -> Hard
 | 1  |   | https://replit.com/@sksaifuddin95/printNto1  | Print numbers from n to 1, recursion basics  ||
 | 2  |   | https://replit.com/@sksaifuddin95/printName | recursion basics ||
 | 3  |   | https://replit.com/@sksaifuddin95/SumOfNNaturalNumbers | recursion basics ||
+| 4  |   | https://replit.com/@sksaifuddin95/CheckPalindrome | checking palindrom using recurstion ||
+| 5  |   | https://replit.com/@sksaifuddin95/SumOfDigits | sum of digits ||
+
 
 ## Arrays
 | Problem No  | Leetcode  | Link  | Learnings  | Solutions
