@@ -37,7 +37,9 @@ Remember the flow: Easy -> Medium -> Hard
 13. Sorting and Searching
 14. Dynamic Programming
 
-## Recursion
+## Easy
+
+### Recursion
 | Problem No  | Leetcode  | Link  | Learnings  | Solutions
 |---|---|---|---|---|
 | 1  |   | https://replit.com/@sksaifuddin95/printNto1  | Print numbers from n to 1, recursion basics  ||
@@ -47,7 +49,7 @@ Remember the flow: Easy -> Medium -> Hard
 | 5  |   | https://replit.com/@sksaifuddin95/SumOfDigits | sum of digits ||
 
 
-## Arrays
+### Arrays
 | Problem No  | Leetcode  | Link  | Learnings  | Solutions
 |---|---|---|---|---|
 | 1  | 1752  | https://leetcode.com/submissions/detail/954163484/  | 1. how to check if array is sorted, 2. Using modulo  ||
