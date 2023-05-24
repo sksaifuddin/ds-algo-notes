@@ -1,16 +1,16 @@
 # Data structures and Algorithms notes 📓⌨️💥
-I have tried to learn Ds and Algo so many times and its always difficult to maintain the consistency 🥲. One more big reason is I always try to complete a topics and then move to another by completing all easy, medium and hard questions, which takes lot of time and I give up and stop practising. This is why I never came to the advance topics like tree and dynamic programming.
+I have tried to learn DS and Algo so many times and its always difficult to maintain the consistency 🥲. One more big reason is I always try to complete a topic and then move to another by completing all easy, medium and hard questions, which takes lot of time and I give up and stop practising. This is why I never came to the advance topics like tree and dynamic programming.
 
 This time I will try to maintain consistency and do the problems with this flow:
 ### Easy (all topics) -> Medium (all topics) -> Hard (all topics) -> Competitive programming 💥🧑‍💻
 
 Also take detailed notes, which will be combination of code and theory. I will also try to write some blogs and explain others about the topics I learn to make journey more enjoyable.
 
-** Most important thing: Practice Daily !!!! **
+**Most important thing: Practice Daily !!!!**
 
 # 💪 Strategy: 
 1. Study the topic or the algorithm
-2. Easy questions from leetcode
+2. Easy questions from leetcode and striver's sheet
 3. Take detailed notes of all topics and all the problems solved (really important)
 4. Keep revising notes every weekend
 5. Complete all topics with solved easy questions
