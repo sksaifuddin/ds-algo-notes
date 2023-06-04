@@ -40,18 +40,23 @@ Remember the flow: Easy -> Medium -> Hard
 ## Easy
 
 ### Recursion
-| Problem No  | Leetcode  | Link  | Learnings  | Solutions
-|---|---|---|---|---|
-| 1  |   | https://replit.com/@sksaifuddin95/printNto1  | Print numbers from n to 1, recursion basics  ||
-| 2  |   | https://replit.com/@sksaifuddin95/printName | recursion basics ||
-| 3  |   | https://replit.com/@sksaifuddin95/SumOfNNaturalNumbers | recursion basics ||
-| 4  |   | https://replit.com/@sksaifuddin95/CheckPalindrome | checking palindrom using recurstion ||
-| 5  |   | https://replit.com/@sksaifuddin95/SumOfDigits | sum of digits ||
+| Problem No  | Leetcode  | Link  | Learnings
+|---|---|---|---|
+| 1  |   | https://replit.com/@sksaifuddin95/printNto1  | Print numbers from n to 1, recursion basics  |
+| 2  |   | https://replit.com/@sksaifuddin95/printName | recursion basics |
+| 3  |   | https://replit.com/@sksaifuddin95/SumOfNNaturalNumbers | recursion basics |
+| 4  |   | https://replit.com/@sksaifuddin95/CheckPalindrome | checking palindrom using recurstion |
+| 5  |   | https://replit.com/@sksaifuddin95/SumOfDigits | sum of digits |
 
+### Hashing
+| Problem No  | Leetcode  | Link  | Learnings
+|---|---|---|---|
+| 1  | 1  | https://leetcode.com/submissions/detail/963893937/  | using hashtables  |
+| 2  | 383    | https://leetcode.com/submissions/detail/963917294/ | using hashtables |
 
 ### Arrays
-| Problem No  | Leetcode  | Link  | Learnings  | Solutions
-|---|---|---|---|---|
-| 1  | 1752  | https://leetcode.com/submissions/detail/954163484/  | 1. how to check if array is sorted, 2. Using modulo  ||
-| 2  | 26    | https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/954736827/ | 1. how to remove duplicates from sorted array ||
+| Problem No  | Leetcode  | Link  | Learnings
+|---|---|---|---|
+| 1  | 1752  | https://leetcode.com/submissions/detail/954163484/  | 1. how to check if array is sorted, 2. Using modulo  |
+| 2  | 26    | https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/954736827/ |  how to remove duplicates from sorted array |
 
