@@ -49,6 +49,7 @@ Remember the flow: Easy -> Medium -> Hard
 | 5  |   | https://replit.com/@sksaifuddin95/SumOfDigits | sum of digits |
 
 ### Hashing
+#### NOTES: https://github.com/sksaifuddin/ds-algo-notes/blob/main/notes/hashing/hashing_notes.pdf
 | Problem No  | Leetcode  | Link  | Learnings
 |---|---|---|---|
 | 1  | 1  | https://leetcode.com/submissions/detail/963893937/  | using hashtables  |
