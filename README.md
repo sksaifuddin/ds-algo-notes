@@ -41,6 +41,7 @@ Remember the flow: Easy -> Medium -> Hard
 | Problem No | Link | Topic
 |---|---|---|
 | 1 | https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-max-element | Problem-solving
+| 2 | https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-concatenation | Problem-solving
 
 ## Easy
 
