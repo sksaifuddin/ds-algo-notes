@@ -37,6 +37,11 @@ Remember the flow: Easy -> Medium -> Hard
 13. Sorting and Searching
 14. Dynamic Programming
 
+## Must do basic problems
+| Problem No | Link | Topic
+|---|---|---|
+| 1 | https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-max-element | Problem-solving
+
 ## Easy
 
 ### Recursion
